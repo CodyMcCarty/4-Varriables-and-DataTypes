@@ -13,5 +13,9 @@ int main(){
 
     std::cout << nums << std::endl;
 
+    char st[]{"abc"};
+    std::cout << st << sizeof(st) << std::endl;
+
+
     return 0;
 }
